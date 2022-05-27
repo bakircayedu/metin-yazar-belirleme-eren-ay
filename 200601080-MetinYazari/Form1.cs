@@ -22,7 +22,7 @@ namespace MetinYazari
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            txtHashDeneme.Text = "0";
         }
         Cumle Dosya = new Cumle(); 
         bool SeciliDosya = false;
